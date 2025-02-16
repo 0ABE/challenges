@@ -2,7 +2,7 @@
 
 I created this repo to store and track my progress through CP4 Book 1.
 
-Website: https://cpbook.net/
+Book website: https://cpbook.net/
 
 Authors' repo: https://github.com/stevenhalim/cpbook-code
 
