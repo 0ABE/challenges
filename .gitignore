@@ -10,6 +10,9 @@ playground.xcworkspace/
 # Prerequisites
 *.d
 
+# Java Bytecode
+*.class
+
 # Compiled Object files
 *.slo
 *.lo
