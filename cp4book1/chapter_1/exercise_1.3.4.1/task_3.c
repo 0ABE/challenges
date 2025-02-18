@@ -43,9 +43,9 @@ main(int argc, char* argv[])
     int num_days = (int)secs / 3600 / 24;
 
     // Make a buffer and fill it with the day of the week.
-    char day_name[10] = { '\0' };
+    char day_name[4] = { '\0' };
     tm_struct* past_out = localtime(&past_secs);
-    strftime(day_name, 10, "%a", past_out);
+    strftime(day_name, 4, "%a", past_out);
 
     // Results: day of the week and days elapsed to present.
     printf("%s\n%d day(s) ago\n", day_name, num_days);
