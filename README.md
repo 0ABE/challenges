@@ -1,5 +1,5 @@
 # challenges
-A repo to store solutions to fun and challenging coding exercises.
+Data structure and algorithms (DSA) coding exercises.
 
 Copyright (c) 2025, Abe Mishler
 
